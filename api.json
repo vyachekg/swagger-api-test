@@ -858,7 +858,7 @@
     }
   },
   "definitions": {
-    "$ref":  './definitions.json'
+    "$ref":  'https://github.com/vyachekg/swagger-api-test/blob/master/definitions.json'
   },
   "externalDocs": {
     "description": "Find out more about Swagger",
